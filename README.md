@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Slavi-Svec/Slavi-Svec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he, him
 - ⚡ Fun fact: Every time you shuffle a deck of cards, you get a combination that's never existed.
 
--->
+
